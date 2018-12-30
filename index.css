@@ -1,0 +1,66 @@
+.fonts1 {
+    font-family: 'Noto Serif JP', sans-serif;
+    color: white;
+    background-color: darkred;
+}
+
+.container {
+	position: center;
+	padding: 50px;
+    display: block;
+    text-align: center;
+}
+
+.title {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 70px;
+	letter-spacing: 3px;
+}
+.btn1 {
+    font-size: 30px;
+    color: navajowhite;
+    background-color: indianred;
+    color: white;
+    width: 450px;
+    height: 50px;
+    border: none;
+    text-align: center;
+    padding: 10px;
+}
+
+    .btn1:hover {
+        background-color: rosybrown;
+        color: black;
+        border: none;
+        text-decoration: none;
+    
+    }
+.btn2 {
+    font-size: 30px;
+    color: navajowhite;
+    background-color: indianred;
+    color: white;
+    width: 450px;
+    height: 50px;
+    border: none;
+    text-align: center;
+    padding: 10px;
+}
+
+    .btn2:hover {
+        background-color: rosybrown;
+        color: black;
+        border: none;
+        text-decoration: none;
+    }
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: indianred;
+	color: white;
+	text-align: center;
+	padding-top: 7px;
+	height: 40px;
+}
